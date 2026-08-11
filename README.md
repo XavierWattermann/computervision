@@ -11,3 +11,6 @@ This section goes over the code repo; saying what each file was responsible for.
 - `image_classification.py` -> Main model training script for the Image Classification task
 
 - `classification_report.py` -> Reporting script used to run the trained model (from the script above) against the Hubble data to see how well it preforms; uses sklearn. 
+
+Other:
+- `assignment2.py` - From a previous class (advanced data mining); used as a reference for some pytorch settings
